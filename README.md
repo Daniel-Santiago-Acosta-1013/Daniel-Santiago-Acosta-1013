@@ -1,6 +1,6 @@
 # Hola soy santiago, bienvenido a mi perfil de GitHub
 
-_Apacionado por la tecnologia, desarrollador back-end_
+_Technology enthusiast, back-end developer_
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
