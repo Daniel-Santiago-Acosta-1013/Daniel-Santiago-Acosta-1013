@@ -1,4 +1,4 @@
-# Hola soy santiago, bienvenido a mi perfil de GitHub
+# Hola soy Santiago Acosta, bienvenido a mi perfil de GitHub
 
 _Technology enthusiast, back-end developer_
 
