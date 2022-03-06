@@ -1,5 +1,5 @@
 # Hola soy Santiago Acosta, bienvenido a mi perfil de GitHub
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Back-end+developer;Back-end+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Back-end+Developer;Back-end+Developer)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Daniel-Santiago-Acosta-1013&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
