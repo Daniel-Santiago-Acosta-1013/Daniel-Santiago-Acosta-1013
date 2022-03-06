@@ -1,6 +1,4 @@
-# Hola soy Santiago Acosta, bienvenido a mi perfil de GitHub
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Back-end+Developer;Back-end+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=200&center=cierto&vCenter=falso&multiline=true&width=4000&height=500&lines=Welcome+I+am+a+back-end+developer.+)](https://github.com/Daniel-Santiago-Acosta-1013)
 ```console
 github@github:~$ ./Santiago
 
@@ -31,7 +29,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: santiago
                   -!v|`              _?v!`                     
 ```
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Daniel-Santiago-Acosta-1013&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Daniel-Santiago-Acosta-1013&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/Daniel-Santiago-Acosta-1013">
