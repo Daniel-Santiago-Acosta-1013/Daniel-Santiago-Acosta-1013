@@ -1,5 +1,36 @@
 # Hola soy Santiago Acosta, bienvenido a mi perfil de GitHub
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Back-end+Developer;Back-end+Developer)](https://git.io/typing-svg)
+```console
+github@github:~$ ./Santiago
+
+                   .~vVeZNgQBBBQQg9Ze1v~.                   
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 root
+           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 2 years
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: Python, JS,
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: ZSH 
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: VSCode, 
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding, OS-internals, Hacking
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/Santiago
+a@@@@@@@@@@2                                    v@@@@@@@@@@;    
+#@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
+@@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: ***
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: santiago A#8309
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    TryHackMe: SantiagoAcosta
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    Github: Daniel-Santiago-Acosta-1013
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     Codewars: santiago1013
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
+    .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       compiling projects
+      x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         ------------------
+        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Portfolio Website: ~/***
+          `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Outstanding project: ~/***
+              "Lf8@@@@v              q@@@#Qa?:                 
+                  -!v|`              _?v!`                     
+```
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Daniel-Santiago-Acosta-1013&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
