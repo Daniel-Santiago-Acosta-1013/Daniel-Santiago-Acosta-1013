@@ -29,7 +29,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   Discord: santiago
                   -!v|`              _?v!`                     
 ```
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Daniel-Santiago-Acosta-1013&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Daniel-Santiago-Acosta-1013&theme=xcode)](https://github.com/Daniel-Santiago-Acosta-1013)
 
 <div align="center">
   <a href="https://github.com/Daniel-Santiago-Acosta-1013">
