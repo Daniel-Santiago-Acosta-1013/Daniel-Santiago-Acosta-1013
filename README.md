@@ -28,7 +28,6 @@
   <a href="https://www.hackerrank.com/santiagoacosta11" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
   <a href="https://www.sololearn.com/profile/20823374" target="_blank"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" target="_blank"></a>
   <a href="https://leetcode.com/Santiago_Acosta/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
-  <a href="https://www.hackerearth.com/@Santiago_Acosta" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" target="_blank"></a>
 </div>
   
   
