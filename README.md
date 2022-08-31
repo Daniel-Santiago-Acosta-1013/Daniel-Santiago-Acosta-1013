@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Daniel-Santiago-Acosta-1013">    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Santiago-Acosta-1013&show_icons=true&theme=dark"/>    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Santiago-Acosta-1013&layout=compact&langs_count=7&theme=dark"/>       
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Santiago-Acosta-1013&show_icons=true&theme=dark"/>    
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Santiago-Acosta-1013&layout=compact&langs_count=7&theme=dark"/>       
 </div>
   
   ## Skills :computer:
@@ -15,6 +15,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
 </div>
   
    ## Learning :mortar_board:
